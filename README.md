@@ -1,3 +1,5 @@
+Still working on this one.
+
 # AI Assistant for Neovim
 
 A deep integration of AI assistance into your Neovim workflow with project awareness, multiple AI providers, and advanced context management.
